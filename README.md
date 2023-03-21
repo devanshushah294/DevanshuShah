@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/devanshushah294](github.com/devanshushah294)
 
-- 📫 How to reach me **divyankraja1@gmail.com**
+- 📫 How to reach me **devanshushah294.gmail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
