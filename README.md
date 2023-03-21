@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divyank Raja</h1>
+<h1 align="center">Hi 👋, I'm Devanshu Shah</h1>
 <h3 align="center">I am passionate fresher in MERN developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajaDivyank&label=Profile%20views&color=0e75b6&style=flat" alt="DevanshuShah" /> </p>
